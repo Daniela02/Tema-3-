@@ -4,7 +4,6 @@
 class Bere :
 	public Produs <int>
 {
-	friend class StocMagazinZi;
 public:
 	Bere();
 	Bere(const Bere &);

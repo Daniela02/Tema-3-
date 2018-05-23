@@ -4,7 +4,6 @@
 class VinSoi :
 	public Produs<int>
 {
-	friend class StocMagazinZi;
 public:
 	VinSoi();
 	VinSoi(const VinSoi&);

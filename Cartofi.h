@@ -5,7 +5,6 @@
 class Cartofi :
 	public Produs<double>
 {
-	friend class StocMagazinZi;
 public:
 	Cartofi();
 	Cartofi(const Cartofi&);

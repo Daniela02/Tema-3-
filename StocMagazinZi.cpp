@@ -139,7 +139,7 @@ void StocMagazinZi:: InchidereaZilei(ostream &out)
 	}
 	for (i = 1; i <= nrJucarii; i++)
 	{
-		out << j[i].nume << ": " << j[i].vandut << " bucati\n";
+		out << j[i].Nume() << ": " << j[i].Vandut() << " bucati\n";
 		stoc += (j[i].vandut*j[i].pret);
 	}
 	out << "In valoare de " << stoc << "\n";

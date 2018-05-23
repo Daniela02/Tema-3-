@@ -4,7 +4,6 @@
 class VinVarsat :
 	public Produs<double>
 {
-	friend class StocMagazinZi;
 public:
 	VinVarsat();
 	VinVarsat(const VinVarsat&);

@@ -3,7 +3,6 @@
 class Faina :
 	public Produs<double>
 {
-	friend class StocMagazinZi;
 public:
 	Faina();
 	Faina(const Faina&);

@@ -4,7 +4,7 @@
 class Jucarie :
 	public Produs<int>
 {
-	friend class StocMagazinZi;;
+
 public:
 	Jucarie();
 	Jucarie(const Jucarie &);

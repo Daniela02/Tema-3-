@@ -5,7 +5,6 @@ using namespace std;
 class Varza :
 	public Produs<int>
 {
-	friend class StocMagazinZi;
 public:
 	Varza();
 	Varza(const Varza &);
