@@ -1,0 +1,19 @@
+2
+2 130
+2.13 40 1
+1.3 20 2
+4.5 140 blonda
+5.03 90 bruna
+4 100 alb
+4.35 120 rosu
+0.75 200 albi
+1.03 178 rosii
+2
+78 23 1979 franta dulce rosu
+45 56 1995 italia sec alb
+3
+10  3 minge
+60  12 papusa
+45 20 masina
+100
+0
